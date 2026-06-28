@@ -78,6 +78,6 @@ npm run dev
 
 This starts the Vite development server. By default, it will host on:
 
-- **URL**: `http://localhost:3000`
+* **URL**: `http://localhost:3000`
 
 Open this URL in a web browser (such as Chrome, Edge, or Firefox) to view, test, and interact with the TeamForge Dashboard.
