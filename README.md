@@ -2,6 +2,10 @@
 
 This guide outlines the steps to set up and run the TeamForge React-Vite-Tailwind application on your local machine.
 
+## Preview
+
+![TeamForge Analytics Dashboard](./assets/analytics-dashboard.png)
+
 ---
 
 ## Step 1: Install the Prerequisites
